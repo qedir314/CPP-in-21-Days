@@ -1,0 +1,3 @@
+C:/Users/USER/CLionProjects/C++21days/cmake-build-debug/CMakeFiles/C__21days.dir
+C:/Users/USER/CLionProjects/C++21days/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/CLionProjects/C++21days/cmake-build-debug/CMakeFiles/rebuild_cache.dir
