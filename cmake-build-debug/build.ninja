@@ -115,6 +115,78 @@ build CMakeFiles/C__21days.dir/3_5.cpp.obj: CXX_COMPILER__C__21days_unscanned_De
   OBJECT_DIR = CMakeFiles\C__21days.dir
   OBJECT_FILE_DIR = CMakeFiles\C__21days.dir
 
+build CMakeFiles/C__21days.dir/4_0.cpp.obj: CXX_COMPILER__C__21days_unscanned_Debug C$:/Users/USER/CLionProjects/C++21days/4_0.cpp || cmake_object_order_depends_target_C__21days
+  DEP_FILE = CMakeFiles\C__21days.dir\4_0.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C__21days.dir
+  OBJECT_FILE_DIR = CMakeFiles\C__21days.dir
+
+build CMakeFiles/C__21days.dir/4_1.cpp.obj: CXX_COMPILER__C__21days_unscanned_Debug C$:/Users/USER/CLionProjects/C++21days/4_1.cpp || cmake_object_order_depends_target_C__21days
+  DEP_FILE = CMakeFiles\C__21days.dir\4_1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C__21days.dir
+  OBJECT_FILE_DIR = CMakeFiles\C__21days.dir
+
+build CMakeFiles/C__21days.dir/4_2.cpp.obj: CXX_COMPILER__C__21days_unscanned_Debug C$:/Users/USER/CLionProjects/C++21days/4_2.cpp || cmake_object_order_depends_target_C__21days
+  DEP_FILE = CMakeFiles\C__21days.dir\4_2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C__21days.dir
+  OBJECT_FILE_DIR = CMakeFiles\C__21days.dir
+
+build CMakeFiles/C__21days.dir/4_3.cpp.obj: CXX_COMPILER__C__21days_unscanned_Debug C$:/Users/USER/CLionProjects/C++21days/4_3.cpp || cmake_object_order_depends_target_C__21days
+  DEP_FILE = CMakeFiles\C__21days.dir\4_3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C__21days.dir
+  OBJECT_FILE_DIR = CMakeFiles\C__21days.dir
+
+build CMakeFiles/C__21days.dir/4_4.cpp.obj: CXX_COMPILER__C__21days_unscanned_Debug C$:/Users/USER/CLionProjects/C++21days/4_4.cpp || cmake_object_order_depends_target_C__21days
+  DEP_FILE = CMakeFiles\C__21days.dir\4_4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C__21days.dir
+  OBJECT_FILE_DIR = CMakeFiles\C__21days.dir
+
+build CMakeFiles/C__21days.dir/4_5.cpp.obj: CXX_COMPILER__C__21days_unscanned_Debug C$:/Users/USER/CLionProjects/C++21days/4_5.cpp || cmake_object_order_depends_target_C__21days
+  DEP_FILE = CMakeFiles\C__21days.dir\4_5.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C__21days.dir
+  OBJECT_FILE_DIR = CMakeFiles\C__21days.dir
+
+build CMakeFiles/C__21days.dir/4_6.cpp.obj: CXX_COMPILER__C__21days_unscanned_Debug C$:/Users/USER/CLionProjects/C++21days/4_6.cpp || cmake_object_order_depends_target_C__21days
+  DEP_FILE = CMakeFiles\C__21days.dir\4_6.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C__21days.dir
+  OBJECT_FILE_DIR = CMakeFiles\C__21days.dir
+
+build CMakeFiles/C__21days.dir/4_7.cpp.obj: CXX_COMPILER__C__21days_unscanned_Debug C$:/Users/USER/CLionProjects/C++21days/4_7.cpp || cmake_object_order_depends_target_C__21days
+  DEP_FILE = CMakeFiles\C__21days.dir\4_7.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C__21days.dir
+  OBJECT_FILE_DIR = CMakeFiles\C__21days.dir
+
+build CMakeFiles/C__21days.dir/4_8.cpp.obj: CXX_COMPILER__C__21days_unscanned_Debug C$:/Users/USER/CLionProjects/C++21days/4_8.cpp || cmake_object_order_depends_target_C__21days
+  DEP_FILE = CMakeFiles\C__21days.dir\4_8.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C__21days.dir
+  OBJECT_FILE_DIR = CMakeFiles\C__21days.dir
+
+build CMakeFiles/C__21days.dir/4_9.cpp.obj: CXX_COMPILER__C__21days_unscanned_Debug C$:/Users/USER/CLionProjects/C++21days/4_9.cpp || cmake_object_order_depends_target_C__21days
+  DEP_FILE = CMakeFiles\C__21days.dir\4_9.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C__21days.dir
+  OBJECT_FILE_DIR = CMakeFiles\C__21days.dir
+
+build CMakeFiles/C__21days.dir/4_10.cpp.obj: CXX_COMPILER__C__21days_unscanned_Debug C$:/Users/USER/CLionProjects/C++21days/4_10.cpp || cmake_object_order_depends_target_C__21days
+  DEP_FILE = CMakeFiles\C__21days.dir\4_10.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C__21days.dir
+  OBJECT_FILE_DIR = CMakeFiles\C__21days.dir
+
+build CMakeFiles/C__21days.dir/4_11.cpp.obj: CXX_COMPILER__C__21days_unscanned_Debug C$:/Users/USER/CLionProjects/C++21days/4_11.cpp || cmake_object_order_depends_target_C__21days
+  DEP_FILE = CMakeFiles\C__21days.dir\4_11.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C__21days.dir
+  OBJECT_FILE_DIR = CMakeFiles\C__21days.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C__21days
@@ -123,7 +195,7 @@ build CMakeFiles/C__21days.dir/3_5.cpp.obj: CXX_COMPILER__C__21days_unscanned_De
 #############################################
 # Link the executable C__21days.exe
 
-build C__21days.exe: CXX_EXECUTABLE_LINKER__C__21days_Debug CMakeFiles/C__21days.dir/main.cpp.obj CMakeFiles/C__21days.dir/day1.cpp.obj CMakeFiles/C__21days.dir/2_0.cpp.obj CMakeFiles/C__21days.dir/2_1FUNC.cpp.obj CMakeFiles/C__21days.dir/2_2.cpp.obj CMakeFiles/C__21days.dir/3_0.cpp.obj CMakeFiles/C__21days.dir/3_1.cpp.obj CMakeFiles/C__21days.dir/3_2.cpp.obj CMakeFiles/C__21days.dir/3_3.cpp.obj CMakeFiles/C__21days.dir/3_4.cpp.obj CMakeFiles/C__21days.dir/3_5.cpp.obj
+build C__21days.exe: CXX_EXECUTABLE_LINKER__C__21days_Debug CMakeFiles/C__21days.dir/main.cpp.obj CMakeFiles/C__21days.dir/day1.cpp.obj CMakeFiles/C__21days.dir/2_0.cpp.obj CMakeFiles/C__21days.dir/2_1FUNC.cpp.obj CMakeFiles/C__21days.dir/2_2.cpp.obj CMakeFiles/C__21days.dir/3_0.cpp.obj CMakeFiles/C__21days.dir/3_1.cpp.obj CMakeFiles/C__21days.dir/3_2.cpp.obj CMakeFiles/C__21days.dir/3_3.cpp.obj CMakeFiles/C__21days.dir/3_4.cpp.obj CMakeFiles/C__21days.dir/3_5.cpp.obj CMakeFiles/C__21days.dir/4_0.cpp.obj CMakeFiles/C__21days.dir/4_1.cpp.obj CMakeFiles/C__21days.dir/4_2.cpp.obj CMakeFiles/C__21days.dir/4_3.cpp.obj CMakeFiles/C__21days.dir/4_4.cpp.obj CMakeFiles/C__21days.dir/4_5.cpp.obj CMakeFiles/C__21days.dir/4_6.cpp.obj CMakeFiles/C__21days.dir/4_7.cpp.obj CMakeFiles/C__21days.dir/4_8.cpp.obj CMakeFiles/C__21days.dir/4_9.cpp.obj CMakeFiles/C__21days.dir/4_10.cpp.obj CMakeFiles/C__21days.dir/4_11.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C__21days.dir
